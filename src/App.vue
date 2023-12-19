@@ -1,5 +1,8 @@
-<script setup></script>
+<script setup>
+import Home from "./views/Home.vue";
+import About from "./views/About.vue";
+</script>
 
 <template>
-  <main>hello world</main>
+  <About />
 </template>
